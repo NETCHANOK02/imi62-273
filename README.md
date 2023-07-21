@@ -1,4 +1,4 @@
 # imi62-273
 
-Hello! 
+Hello
 Welcome to IMI
